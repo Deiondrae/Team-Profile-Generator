@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/Deiondrae/Team-Profile-Generator#readme",
   "devDependencies": {
-    "inquirer": "^9.0.0",
-    "jest": "^28.1.1"
+    "inquirer": "^9.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
   }
 }
